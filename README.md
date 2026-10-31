@@ -5,5 +5,10 @@
 </p>
 
 <p align="center">
+  hi, i'm kzen. i build data projects around vocaloid music<br>
+  currently: mapping producer collaborations in <a href="https://github.com/sodapines/vocasynth-network">vocasynth-network</a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=sodapines&label=views&color=555555" alt="profile views">
 </p>
