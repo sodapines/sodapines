@@ -6,9 +6,10 @@
 
 <p align="center">
   hi, i'm kzen. i build data projects around vocaloid music<br>
-  currently: mapping producer collaborations in <a href="https://github.com/sodapines/vocasynth-network">vocasynth-network</a>
+  currently doing: mapping producer collaborations in <a href="https://github.com/sodapines/vocasynth-network">vocasynth-network</a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sodapines&label=views&color=555555" alt="profile views">
+  <a href="https://wakatime.com/@e62b5dc7-9dce-4026-baa0-20e51fdf1280"><img src="https://wakatime.com/badge/user/e62b5dc7-9dce-4026-baa0-20e51fdf1280.svg" alt="wakatime"></a>
 </p>
