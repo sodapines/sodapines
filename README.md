@@ -5,24 +5,25 @@
 </p>
 
 <p align="center">
-  hi, i'm kzen. i like building things with data, music, and whatever ideas happen to interest me.
+  hi, i'm kzen. i like building things with data, music, and whatever ideas happen to interest me.<br>
+  right now that mostly means vocaloid, networks, and interactive things you can poke at.
 </p>
 
 <table align="center">
   <tr>
     <td width="50%" align="center">
-      <a href="https://vocaloidle.sodapines.dev/"><img src="./vocaloidle.png" alt="vocaloidle puzzle board with sixteen vocaloid songs"></a>
+      <a href="https://vocaloidle.sodapines.dev/"><img src="./vocaloidle.png" width="280" alt="vocaloidle puzzle board with sixteen vocaloid songs"></a>
       <br>
       <a href="https://vocaloidle.sodapines.dev/"><b>vocaloidle</b></a>
       <br>
-      <sub>a growing collection of daily vocaloid games</sub>
+      a growing collection of vocaloid games. sort sixteen songs into four hidden groups, with a shared daily board, unlimited practice, and an archive of past puzzles.
     </td>
     <td width="50%" align="center">
-      <a href="https://sodapines.github.io/vocasynth-network/"><img src="./network.png" alt="network graph of vocaloid producer collaborations"></a>
+      <a href="https://sodapines.github.io/vocasynth-network/"><img src="./network.png" width="280" alt="network graph of vocaloid producer collaborations"></a>
       <br>
       <a href="https://sodapines.github.io/vocasynth-network/"><b>vocasynth-network</b></a>
       <br>
-      <sub>mapping how vocaloid producers connect</sub>
+      an interactive map of how vocaloid producers connect. i use network analysis to look for collaboration patterns and relationships across the community.
     </td>
   </tr>
 </table>
