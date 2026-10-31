@@ -5,13 +5,8 @@
 </p>
 
 <p align="center">
-  hi, i'm kzen. i build data projects around vocaloid music<br>
-  currently doing: mapping producer collaborations in <a href="https://github.com/sodapines/vocasynth-network">vocasynth-network</a>
-</p>
-
-<p align="center">
-  <a href="https://vocaloidle.sodapines.dev/">vocaloidle</a> ·
-  <a href="https://sodapines.github.io/vocasynth-network/">vocasynth-network</a>
+  hi, i'm kzen. i build data projects around vocaloid music, like <a href="https://vocaloidle.sodapines.dev/">vocaloidle</a><br>
+  currently doing: mapping producer collaborations in <a href="https://sodapines.github.io/vocasynth-network/">vocasynth-network</a>
 </p>
 
 <p align="center">
