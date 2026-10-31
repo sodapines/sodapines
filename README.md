@@ -10,6 +10,11 @@
 </p>
 
 <p align="center">
+  <a href="https://vocaloidle.sodapines.dev/">vocaloidle</a> ·
+  <a href="https://sodapines.github.io/vocasynth-network/">vocasynth-network</a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=sodapines&label=views&color=555555" alt="profile views">
   <a href="https://wakatime.com/@e62b5dc7-9dce-4026-baa0-20e51fdf1280"><img src="https://wakatime.com/badge/user/e62b5dc7-9dce-4026-baa0-20e51fdf1280.svg" alt="wakatime"></a>
 </p>
