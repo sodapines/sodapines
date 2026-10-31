@@ -9,6 +9,11 @@
   right now that mostly means vocaloid, networks, and interactive things you can poke at.
 </p>
 
+<p align="center">
+  i got into this by wanting to turn the music i love into something you can play with or explore.<br>
+  so far that's a guessing game where you sort songs into hidden groups, and a network for finding patterns in who works with who.
+</p>
+
 <table align="center">
   <tr>
     <td width="50%" align="center">
@@ -16,14 +21,14 @@
       <br>
       <a href="https://vocaloidle.sodapines.dev/"><b>vocaloidle</b></a>
       <br>
-      a growing collection of vocaloid games. sort sixteen songs into four hidden groups, with a shared daily board, unlimited practice, and an archive of past puzzles.
+      a growing collection of vocaloid games, built around a daily puzzle.
     </td>
     <td width="50%" align="center">
       <a href="https://sodapines.github.io/vocasynth-network/"><img src="./network.png" width="280" alt="network graph of vocaloid producer collaborations"></a>
       <br>
       <a href="https://sodapines.github.io/vocasynth-network/"><b>vocasynth-network</b></a>
       <br>
-      an interactive map of how vocaloid producers connect. i use network analysis to look for collaboration patterns and relationships across the community.
+      an interactive map of how vocaloid producers connect.
     </td>
   </tr>
 </table>
